@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @k-isk
 - 👀 I’m interested in ...Sports analysis
-- 🌱 I’m currently learning ...Python
+- 🌱 I’m currently learning ...Python, Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
