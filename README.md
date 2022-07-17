@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @k-isk
+- 👋 Hi, I’m @Kou-ISK
 - 👀 I’m interested in ...Sports analysis
 - 🌱 I’m currently learning ...Python, Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 k-isk/k-isk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
