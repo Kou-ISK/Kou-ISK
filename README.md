@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kou-ISK
 - 👀 I’m interested in ...Sports analysis
-- 🌱 I’m currently learning ...Python, Java, Kotlin
+- 🌱 I’m currently learning ...Python, Java, Kotlin, JavaScript, TypeScript, Swift
 
 <!---
 k-isk/k-isk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
