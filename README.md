@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @Kou-ISK
-- 👀 I’m interested in ...Sports analysis
-- 🌱 I’m currently learning ...Python, Java, Kotlin, JavaScript, TypeScript, Swift
+# 👋 Hi
+- 👀 I’m interested in ...Sports analysis, iOS application
+## 🌱 I’m currently learning
+- Python
+- Java
+- Kotlin
+- JavaScript
+- TypeScript
+- Swift
 
 # Activities
 <div align="left"> 
