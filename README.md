@@ -1,5 +1,5 @@
 # 👋 Hi
-- 👀 I’m interested in ...Sports analysis, iOS application
+- 👀 I’m interested in ...Sports analysis, iOS app
 ## 🌱 I’m currently learning
 - Python
 - Java
