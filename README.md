@@ -1,5 +1,7 @@
 # 👋 Hi
 - 👀 I’m interested in ...Sports analysis, iOS app
+- Trying to be a good vibe coder
+
 ## 🌱 I’m currently learning
 - Python
 - Java
