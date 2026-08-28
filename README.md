@@ -1,22 +1,14 @@
-# 👋 Hi
-- 👀 I’m interested in ...Sports analysis, iOS app
-- Trying to be a good vibe coder
+# Hi, I'm Kou 👋
 
-## 🌱 I’m currently learning
-- Python
-- Java
-- Kotlin
-- JavaScript
-- TypeScript
-- Swift
+Software Engineer based in Japan.
 
-# Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=Kou-ISK&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kou-ISK&theme=vue-dark&layout=compact" />
+Write Code Everyday.
+
+TypeScript / React / Java / Swift / Python
+
+## GitHub Activity
+
+<div align="left">
+  <img alt="GitHub Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=Kou-ISK&show_icons=true&hide_title=true&theme=vue-dark" />
+  <img alt="Top Languages" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kou-ISK&layout=compact&theme=vue-dark" />
 </div>
-
-<!---
-k-isk/k-isk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
