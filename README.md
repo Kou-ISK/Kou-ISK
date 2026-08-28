@@ -2,13 +2,17 @@
 
 Software Engineer based in Japan.
 
-Write Code Everyday.
+`Write Code Everyday.`
 
-TypeScript / React / Java / Swift / Python
+TypeScript · React · Java · Swift · Python
 
 ## GitHub Activity
 
-<div align="left">
-  <img alt="GitHub Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=Kou-ISK&show_icons=true&hide_title=true&theme=vue-dark" />
-  <img alt="Top Languages" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kou-ISK&layout=compact&theme=vue-dark" />
-</div>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kou-ISK&theme=transparent" alt="GitHub profile details" width="100%" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kou-ISK&theme=transparent" alt="Repositories per language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kou-ISK&theme=transparent" alt="Most committed languages" width="49%" />
+</p>
