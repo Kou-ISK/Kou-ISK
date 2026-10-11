@@ -1,18 +1,12 @@
-# Hi, I'm Kou 👋
+# Kou Isaka
 
-Software Engineer based in Japan.
+Hi, I’m Kou, a software engineer building web apps, desktop tools, and automations. I enjoy turning ideas into useful software for everyday life and work. Outside of coding, I’m a rugby coach and analyst.
 
-`Write Code Everyday.`
+Write code every day. Lately, that’s been a lot of vibe coding.
 
-TypeScript · React · Java · Swift · Python
+[![X: @Kou_ISK](https://img.shields.io/badge/X-%40Kou__ISK-30363D?style=flat-square&labelColor=20252B)](https://x.com/Kou_ISK)
+[![note: kou_isk](https://img.shields.io/badge/note-kou__isk-30363D?style=flat-square&labelColor=20252B)](https://note.com/kou_isk)
 
-## GitHub Activity
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kou-ISK&theme=transparent" alt="GitHub profile details" width="100%" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kou-ISK&theme=transparent" alt="Repositories per language" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kou-ISK&theme=transparent" alt="Most committed languages" width="49%" />
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kou-ISK&theme=transparent" alt="Kou Isaka’s public GitHub contribution activity" width="100%" />
 </p>
